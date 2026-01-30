@@ -1,5 +1,5 @@
 ## Hi there 👋
-💫 About Me:
+💫 About Me: </br>
 I am looking for a job for a software engineer.<br>Grinding LeetCode.<br>Building Projects.<br>B.Tech Grad-2025.<br>  
 
 
