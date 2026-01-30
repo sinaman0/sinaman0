@@ -16,7 +16,7 @@ I am looking for a job for a software engineer.<br>Grinding LeetCode.<br>Buildin
 ---
 [![](https://visitcount.itsvg.in/api?id=sinaman0&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/sinaman0/sinaman0/output/snake.svg" alt="Snake animation" />
+
 
 
 
